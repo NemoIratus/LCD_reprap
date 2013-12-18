@@ -1,7 +1,6 @@
 /*
-
- This sketch prints "Hello World!" to the LCD
- and shows the time.
+LCD control program by Nicolas Jeannet-Sanchez
+Open source
  
   The circuit:
  * LCD RS pin to digital pin 9
